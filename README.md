@@ -1,4 +1,4 @@
-# FFCS on The Go
+# FFCSGo
 
 Website to visualize VIT timetable. Helpful to students of VIT University, Vellore campus during FFCS course registrations.
 
@@ -19,8 +19,8 @@ Found a bug or have a new idea? Feel free to open [issues](https://github.com/Va
 ## Authors
 
 * **Vatsal Joshi** - *Initial work* - [vatz88](https://github.com/vatz88)
-* **Mano Bala** - *Initial work* - [ManoBalaR](https://github.com/ManoBalaR)
 * **Sangeeth Sudheer** - [sangeeth96](https://github.com/sangeeth96)
+* **Mano Bala**  - [ManoBalaR](https://github.com/ManoBalaR)
 
 <!--
 See also the list of [contributors](https://github.com/VaTz88/FFCSonTheGo/contributors) who participated in this project.
@@ -33,4 +33,5 @@ This project is licensed under the GNU General Public License - see the [LICENSE
 # FFCSGO
 # FFCSGO
 # FFCS-GO
+# FFCSGO
 # FFCSGO
